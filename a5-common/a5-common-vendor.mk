@@ -23,6 +23,5 @@ PRODUCT_PACKAGES += \
     libmm-abl \
     libloc_api_v02 \
     libloc_ds_api \
-    vendor.qti.hardware.fm@1.0
-
+    libaudioalsa
 $(call inherit-product, vendor/samsung/a5-common/a5-common-vendor-blobs.mk)
